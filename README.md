@@ -1,2 +1,2 @@
-# Maquina_Norma
+# Máquina_Norma
 Implementação Máquina Norma
